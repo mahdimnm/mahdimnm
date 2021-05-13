@@ -1,6 +1,6 @@
 I am Mahdi Naseri Majd
 
-interested in Web & Android Developing
+Interested in Web & Android Developing
 
 Avdvanced in:
   - HTML
