@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @mahdimnm
-- 👀 I’m interested in Web Developing 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Developing
-- 📫 How to reach me Mahdi.n.m20@gmail.com
+I am Mahdi Naseri Majd
+
+interested in Web & Android Developing
+
+Avdvanced in:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Java
+  - WordPress
+  - Bootstrap
+  
+Know a little:
+  - Python
+  - C++
+  
+Contact me: mahdi.n.m20@gmail.com
 
 <!---
 mahdimnm/mahdimnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
